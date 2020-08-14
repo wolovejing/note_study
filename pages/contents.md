@@ -13,3 +13,4 @@
 ## [[Card Layout Editor - syntax highlighting, monospace font]]
 ## [[tips]]
 ## [[copy note contents to new Add window (from Browser, Reviewer, Add, EditCurrent)]]
+## [[Copy notes]]
