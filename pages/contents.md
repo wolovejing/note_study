@@ -10,3 +10,4 @@
 ## [[Anki Simulator]]
 ## [[ankiconnect]] 不解释
 ## [[AnkiWebView Inspector]]
+## [[Card Layout Editor - syntax highlighting, monospace font]]
