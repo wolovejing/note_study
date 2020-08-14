@@ -1,1 +1,2 @@
-## [[]]
+## Word autocomplete (for Anki 2.1) 单词自动补全（仅支持英文）
+sasd
