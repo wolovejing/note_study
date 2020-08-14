@@ -4,4 +4,5 @@
 #### tab：选择第一个候选单词
 #### Ctrl+1~5：选择第1、2、3、4、5名候选单词。
 #### ![image](http://tuchuang.lifeupnote.com/blog/20200814/uB1iLmbBdcR7.gif)
-### 设置：打开设置
+### 设置：打开设置,在这里你可能 [[anki配置失败：JSONDecodeError问题]]
+####
