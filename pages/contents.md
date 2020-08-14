@@ -2,4 +2,4 @@
 ## [[Editor Autocomplete 字符自动补全 支持中文]]
 ## [[ScriptManager]]
 ## [[我的模板功能]]
-##
+## [[未知但感觉有用的anki插件]]
