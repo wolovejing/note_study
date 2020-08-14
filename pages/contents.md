@@ -4,3 +4,5 @@
 ## [[我的模板功能]]
 ## [[未知但感觉有用的anki插件]]
 ## [[Add Cards - Web Browser]]
+## [[Add Hyperlink]]
+## (Ad
