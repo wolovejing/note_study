@@ -6,3 +6,5 @@
 ## [[Add Cards - Web Browser]]
 ## [[Add Hyperlink]]
 ## [[Additional Card Fields (Fork for 2.1)]]
+## [[Always On Top]]
+## [[Anki Simulator]]
