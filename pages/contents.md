@@ -11,3 +11,5 @@
 ## [[ankiconnect]] 不解释
 ## [[AnkiWebView Inspector]]
 ## [[Card Layout Editor - syntax highlighting, monospace font]]
+## [[tips]]
+## [[copy note contents to new Add window (from Browser, Reviewer, Add, EditCurrent)]]
