@@ -14,3 +14,7 @@
 ## [[tips]]
 ## [[copy note contents to new Add window (from Browser, Reviewer, Add, EditCurrent)]]
 ## [[Copy notes]]
+## [[Create Filtered Deck from the Browser]]
+## CTRL+F5 to Refresh the Browser 刷新浏览窗口
+## [[External Note Editor for the Browser]]
+##
