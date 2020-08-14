@@ -8,3 +8,5 @@
 ## [[Additional Card Fields (Fork for 2.1)]]
 ## [[Always On Top]]
 ## [[Anki Simulator]]
+## [[ankiconnect]] 不解释
+## [[AnkiWebView Inspector]]
