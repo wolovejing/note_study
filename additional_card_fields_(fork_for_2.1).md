@@ -32,3 +32,4 @@ tags:anki插件
 - {{info-Young:}} - 如果卡片处于 "审查 "状态且间隔时间少于21天，则显示为 "审查"。
 - {{info-Mature:}} - 如果卡片处于 "审查 "状态且间隔时间超过21天，则显示为 "审查"。
 - {{info-Date_Created:}}。- 卡片创建日期（格式化）
+### [等等](https://ankiweb.net/shared/info/744725736)
