@@ -17,4 +17,5 @@
 ## [[Create Filtered Deck from the Browser]]
 ## CTRL+F5 to Refresh the Browser 刷新浏览窗口
 ## [[External Note Editor for the Browser]]
+## [[Frozen Fields]]
 ##
