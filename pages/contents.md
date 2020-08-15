@@ -17,5 +17,12 @@
 ## [[Create Filtered Deck from the Browser]]
 ## CTRL+F5 to Refresh the Browser 刷新浏览窗口
 ## [[External Note Editor for the Browser]]
-## [[Frozen Fields]]
+## [[Frozen Fields]] 冻结窗口
+## [[HTML Editor Tweaks v0.2]]
+## Image Occlusion Enhanced for Anki 2.1 (alpha) 不解释
+## [[displayed in reviewer until it is modified]]
+## [[Mini Format Pack]]
+## [[Open linked pdf, docx, epub, audio/video, etc. in external Program]]
+## [[Anki Browser Context Menu Search]]
+##
 ##
