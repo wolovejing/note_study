@@ -4,7 +4,6 @@ tags:
 ---
 
 ## 定义正则替换函数, 注意是全局替换
-## 'Code'
 ## '''function regexRepl(orig_str, regex_str, subst_str) {
 	const regex = new RegExp(regex_str, 'g');
 	return orig_str.replace(regex, subst_str);
