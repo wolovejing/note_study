@@ -4,5 +4,5 @@ tags:
 ---
 
 ## 
-## [[preProcess]]
+## [[preProcess]] 去除文本开头结尾的回车换行符号
 ##
