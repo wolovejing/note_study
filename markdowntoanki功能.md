@@ -4,4 +4,9 @@ tags:
 ---
 
 ## 代码进行编码功能
-## ~~
+ ```clojure
+  ```clojure
+  (println "Hello world!")
+```
+```
+##
