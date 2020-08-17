@@ -63,3 +63,6 @@ tags:
 ### 倾听过程的要素
 ### 倾听的挑战
 ### 倾听反应的类型
+```clojure
+  (println "Hello world!")
+```
