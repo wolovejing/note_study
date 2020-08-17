@@ -28,3 +28,4 @@
 ## [[popup_dictionary]]
 ## [[Quick Field Navigation]]
 ## [[Reset Card Scheduling]]
+## [[Show field's source (html) in editor]]
