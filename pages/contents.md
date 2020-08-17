@@ -24,5 +24,7 @@
 ## [[Mini Format Pack]]
 ## [[Open linked pdf, docx, epub, audio/video, etc. in external Program]]
 ## [[Anki Browser Context Menu Search]]
-##
-##
+## [[Reviewer to Browser: choosing what to display]]
+## [[popup_dictionary]]
+## [[Quick Field Navigation]]
+## [[Reset Card Scheduling]]
