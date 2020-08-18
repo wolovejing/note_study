@@ -39,5 +39,11 @@ tags:
         });
       }());
     </script>
-
+```
+#### 代码介绍
+```clojure
+	<body>
+		<textarea id="txt"></textarea><br/>
+		<input type="button" name="" id="" value="编码" onclick="htmlEncode();" />
+	</body>
 ```
