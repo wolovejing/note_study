@@ -8,4 +8,4 @@ title: ScreenToGif
 ## 设置
 ### 为了能够更好的和quicker联动，所以做了如下几个设置
 ### [image](http://tuchuang.lifeupnote.com/blog/20200823/ET53a8IicghE.png?imageslim)
-###
+### 另外可以根据自己的实际情况 在键盘快捷键里面设置自己的快捷键
