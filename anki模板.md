@@ -7,3 +7,5 @@ title: anki模板
 ## 需求环境（插件、与之匹配的软件）
 ### [[popup_dictionary]]
 ### [[quicker]]
+### [[ScreenToGif]]
+###
