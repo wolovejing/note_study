@@ -25,9 +25,11 @@ tags:
 ```clojure
 <Person>
     <p>
+        ?1?
         <id>A0001</id>
         <name>zs</name>
-        <age>23</age>
+        ?/?
+        <age>?2?23?/?</age>
     </p>
 </Person>
 ```
