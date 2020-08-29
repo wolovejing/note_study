@@ -18,10 +18,26 @@ title: w3cschool jQuery教程
 ### 向页面中添加jQuery库
 #### 2.|如何向页面中添加jQuery库
 #### 4.|
-#### ```
+#### ```clojure
 <head>
 <script type="text/javascript" src="jquery.js"></script>
 </head>
-**<script> 标签应位于页面的head部分**
+<script> 标签应位于页面的head部分
 ```
-##
+## JQuerya安装
+### 添加JQuery到网页
+#### 2.| 如何把JQuery添加到网页？
+#### 4.|
+#### 1.下载JQuery库
+   :PROPERTIES:
+   :CUSTOM_ID: 5f4a017a-c84e-4634-8418-ba5201442c42
+   :END:
+   :PROPERTIES:
+   :CUSTOM_ID: 5f4a0056-78a7-4bc6-8572-51627ce6be74
+   :END:
+#### 2. ��
+### ((5f4a017a-c84e-4634-8418-ba5201442c4
+#### 两版本可选择
+##### 2.|
+##### Production version - 用于实际的网站中，已被精简和压缩
+##### Development version - 用于测试和开发（未压缩，是可读的代码）
