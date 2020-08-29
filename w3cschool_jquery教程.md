@@ -48,7 +48,21 @@ title: w3cschool jQuery教程
 ### 基础语法
 ###
 ####
-#### 2.| 基础语法是什么？
 ##
+#### 2.| 基础语法是什么？
+#### 4.|
 #### 1. 美元符号定义 jQuery
 #### 2. 选择符（selector）“查询”和“查找” HTML 元素
+#### 3. jQuery 的 action() 执行对元素的操作
+#### 5.|
+```
+<script type="text/javascript">
+$(document).ready(function(){
+  $("button").click(function(){
+  $(this).hide();
+});
+});
+</script>
+```
+####
+####
