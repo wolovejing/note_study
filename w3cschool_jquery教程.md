@@ -18,7 +18,7 @@ title: w3cschool jQuery教程
 ### 向页面中添加jQuery库
 #### 2.|如何向页面中添加jQuery库
 #### 4.|
-#### ```clojure
+```clojure
 <head>
 <script type="text/javascript" src="jquery.js"></script>
 </head>
@@ -63,6 +63,22 @@ $(document).ready(function(){
 });
 });
 </script>
+``
+#### 8.| <e>https://www.w3school.com.cn/tiy/t.asp?f=jquery_hide_this</e>
+### 文档就绪函数
+#### 作用？
+##### 2.|文档就绪函数的作用是什么？
+##### 4.| 为了防止文档在完全加载之前运行JQuery代码
+#### 文档就绪函数的使用
+##### 2.| 如何使用文档就绪函数?
+##### 4.| 所有JQuery函数都位于一个document read函数中
+##### 5.| 例子
 ```
-####
-####
+$(document).ready(function(){
+
+--- jQuery functions go here ----
+
+});
+```
+#####
+##
