@@ -24,7 +24,7 @@ title: w3cschool jQuery教程
 </head>
 <script> 标签应位于页面的head部分
 ```
-## JQuerya安装
+## JQuery安装
 ### 添加JQuery到网页
 #### 2.| 如何把JQuery添加到网页？
 #### 4.|
@@ -42,3 +42,13 @@ title: w3cschool jQuery教程
 ##### Production version - 用于实际的网站中，已被精简和压缩
 ##### Development version - 用于测试和开发（未压缩，是可读的代码）
 ##
+## JQuery语法
+##
+###
+### 基础语法
+###
+####
+#### 2.| 基础语法是什么？
+##
+#### 1. 美元符号定义 jQuery
+#### 2. 选择符（selector）“查询”和“查找” HTML 元素
