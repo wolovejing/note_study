@@ -17,6 +17,17 @@ tags:
 ##### 1.2 XML的用处
 ###### 数据传输概念
 ####### 2.|数据传输指的是什么？
+####### ```clojure
+<Person>
+    <p>
+        ?1?
+        <id>A0001</id>
+        <name>zs</name>
+        ?/?
+        <age>?2?23?/?</age>
+    </p>
+</Person>
+```
 ####### 4.|设后端有一数据p对象 要传送给前端
 ```clojure
   Person p = new Person(“A0001”,”zs”,23);
