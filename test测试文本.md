@@ -29,11 +29,11 @@ tags:
 </Person>
 ```
 ####### 4.|设后端有一数据p对象 要传送给前端
-```clojure
+```java
   Person p = new Person(“A0001”,”zs”,23);
 ```
 也可以使用
-```clojure
+```java
 <Person>
     <p>
         ?1?
