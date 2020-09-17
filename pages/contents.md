@@ -20,6 +20,9 @@
 ## [[Frozen Fields]] 冻结窗口
 ## [[HTML Editor Tweaks v0.2]]
 ## Image Occlusion Enhanced for Anki 2.1 (alpha) 不解释
+   :PROPERTIES:
+   :custom_id: 5f63392f-7de9-4839-b335-75e3bbaa11f2
+   :END:
 ## [[displayed in reviewer until it is modified]]
 ## [[Mini Format Pack]]
 ## [[Open linked pdf, docx, epub, audio/video, etc. in external Program]]
