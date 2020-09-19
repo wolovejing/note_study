@@ -4,6 +4,9 @@
 ## [[我的模板功能]]
 ## [[未知但感觉有用的anki插件]]
 ## [[Add Cards - Web Browser]]
+   :PROPERTIES:
+   :custom_id: 5f63392f-f165-4a7f-95f0-6c13810dfc98
+   :END:
 ## [[Add Hyperlink]]
 ## [[Additional Card Fields (Fork for 2.1)]]
 ## [[Always On Top]]
@@ -20,9 +23,6 @@
 ## [[Frozen Fields]] 冻结窗口
 ## [[HTML Editor Tweaks v0.2]]
 ## Image Occlusion Enhanced for Anki 2.1 (alpha) 不解释
-   :PROPERTIES:
-   :custom_id: 5f63392f-7de9-4839-b335-75e3bbaa11f2
-   :END:
 ## [[displayed in reviewer until it is modified]]
 ## [[Mini Format Pack]]
 ## [[Open linked pdf, docx, epub, audio/video, etc. in external Program]]
@@ -33,3 +33,6 @@
 ## [[Reset Card Scheduling]]
 ## [[Show field's source (html) in editor]]
 ## [[Customize Keyboard Shortcuts]]
+## [[C语言基础]]
+##
+##
