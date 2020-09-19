@@ -21,7 +21,7 @@ title: C语言基础
 3.大多软件的核心模块
 ……
 ## 第1课 Hello,World!
-### C语言是如何执行，并以何种方式执行的？
+### C语言是如何执行?
 #### 4.|
 1. C程序从main（）开始执行-- 左花括号开始 右花括号结束
 2. C语言自伤而下执行
@@ -29,3 +29,6 @@ title: C语言基础
 #### 4.|
 语句，每条语句用分号结束
 #### 5.| [image](http://tuchuang.lifeupnote.com/blog/20200919/Na05fSn5fppg.png?imageslim)
+### C语言是以何种方式执行的？
+#### 2.| 
+[image](http://tuchuang.lifeupnote.com/blog/20200919/Olk032MBNzSE.png?imageslim)
