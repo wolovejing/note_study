@@ -35,7 +35,30 @@ title: C语言基础
 #### 4.|See again?
 ## 第2课 程序中的数据输出
 ### print语句？
+:PROPERTIES:
+:custom_id: 5f674c6f-76bb-4ee9-b2b0-6a61f468ed87
+:END:
 #### 2.| printf介绍
+:PROPERTIES:
+:custom_id: 5f674c80-f6b0-4840-83a2-dcb4c55395b0
+:END:
 #### 4.|
 #### C语言提供多种工具包，studio.h 就是其中一种
 #### 其提供了具有打印机功能的printf语句
+### 如何使用printf语句
+#### 1. 设置具有printf语句的工具包
+##### 2.| 如何设置具有printf语句的工具包？
+##### 4.| 
+1. 在程序的开头 用#include[[预处理命名]]声明要使用的工具包
+2. 然后在程序中使用
+##### 5.|[image](http://tuchuang.lifeupnote.com/blog/20200920/4UPGqiLAxjf9.png?imageslim)
+##### 7.|
+((5f674c80-f6b0-4840-83a2-dcb4c55395b0)) ->printf介绍？
+((5f674dd0-5594-4dcb-9859-b6b2d2b07af7)) -?1. 设置具有printf语句的工具包
+#### 2. 设置printf语句的具体参数，然后指定打印文本(字符串)
+##### 2.|如何设置打印参数呢？
+##### 4.|
+1. 打印参数必须为字符串（被“”括起来的字符序列）
+2. 用2替换1（代表以何种方式显示）
+[image](http://tuchuang.lifeupnote.com/blog/20200920/5a514fO3nMwx.png?imageslim)
+#####
