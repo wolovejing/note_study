@@ -32,3 +32,5 @@ title: C语言基础
 ### C语言是以何种方式执行的？
 #### 2.| 
 [image](http://tuchuang.lifeupnote.com/blog/20200919/Olk032MBNzSE.png?imageslim)
+#### 4.|See again?
+###
