@@ -33,4 +33,9 @@ title: C语言基础
 #### 2.| 
 [image](http://tuchuang.lifeupnote.com/blog/20200919/Olk032MBNzSE.png?imageslim)
 #### 4.|See again?
-###
+## 第2课 程序中的数据输出
+### print语句？
+#### 2.| printf介绍
+#### 4.|
+#### C语言提供多种工具包，studio.h 就是其中一种
+#### 其提供了具有打印机功能的printf语句
