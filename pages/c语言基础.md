@@ -25,8 +25,7 @@ title: C语言基础
 #### 4.|语句，每条语句用分号结束
 #### 5.| [image](http://tuchuang.lifeupnote.com/blog/20200919/Na05fSn5fppg.png?imageslim)
 ### C语言是以何种方式执行的？
-#### 2.| 
-[image](http://tuchuang.lifeupnote.com/blog/20200919/Olk032MBNzSE.png?imageslim)
+#### 2.| [image](http://tuchuang.lifeupnote.com/blog/20200919/Olk032MBNzSE.png?imageslim)
 #### 4.|See again?
 ## 第2课 程序中的数据输出
 ### print语句？
@@ -39,20 +38,16 @@ title: C语言基础
 ### 如何使用printf语句
 #### 1. 设置具有printf语句的工具包
 ##### 2.| 如何设置具有printf语句的工具包？
-##### 4.| 
-1. 在程序的开头 用#include[[预处理命名]]声明要使用的工具包
+##### 4.| 1. 在程序的开头 用#include[[预处理命名]]声明要使用的工具包
 2. 然后在程序中使用
 ##### 5.|[image](http://tuchuang.lifeupnote.com/blog/20200920/4UPGqiLAxjf9.png?imageslim)
-##### 7.|
-((5f674c6f-76bb-4ee9-b2b0-6a61f468ed87)) ->printf介绍？
+##### 7.| ((5f674c6f-76bb-4ee9-b2b0-6a61f468ed87)) ->printf语句？
 ##### ((5f63392f-3220-4f41-8f63-86efcf9c496d))
 #### 2. 设置printf语句的具体参数，然后指定打印文本(字符串)
 ##### 2.|如何设置打印参数呢？
-##### 4.|
-1. 打印参数必须为字符串（被“”括起来的字符序列）
+##### 4.|1. 打印参数必须为字符串（被“”括起来的字符序列）
 2. 用2替换1（代表以何种方式显示）
 [image](http://tuchuang.lifeupnote.com/blog/20200920/5a514fO3nMwx.png?imageslim)
-##### 7.|
-((5f674c6f-76bb-4ee9-b2b0-6a61f468ed87)) ->printf介绍？
+##### 7.|((5f674c6f-76bb-4ee9-b2b0-6a61f468ed87)) ->printf介绍？
 ((5f674dd0-5594-4dcb-9859-b6b2d2b07af7)) ->1. 设置具有printf语句的工具包
 ##### 8.| **href1::C:\Users\Administrator\Documents\020 - learning - 课桌\020 - 01 C++Primer学习\C Code\第2课 - 程序中的数据输出\代码\HelloWorld.c**
