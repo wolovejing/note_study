@@ -30,8 +30,11 @@ title: C语言基础
 ## 第2课 程序中的数据输出
 ### print语句？
 #### 2.| printf介绍
+:PROPERTIES:
+:custom_id: 5f674c80-f6b0-4840-83a2-dcb4c55395b0
+:END:
 #### 4.|C语言提供多种工具包，studio.h 就是其中一种
-#### 其提供了具有打印机功能的printf语句
+#### 其提供了具有打印机功能的printf语句 ((5f674c80-f6b0-4840-83a2-dcb4c55395b0))
 ### 如何使用printf语句
 #### 1. 设置具有printf语句的工具包
 ##### 2.| 如何设置具有printf语句的工具包？
