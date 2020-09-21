@@ -33,10 +33,13 @@ title: C语言基础
 #### 4.|C语言提供多种工具包，studio.h 就是其中一种
 #### 其提供了具有打印机功能的printf语句
 ### 如何使用printf语句
+:PROPERTIES:
+:custom_id: 5f674dc1-00dd-422e-a235-215af2b5967d
+:END:
 #### 1. 设置具有printf语句的工具包
 ##### 2.| 如何设置具有printf语句的工具包？
 ##### 4.| 1. 在程序的开头 用#include[[预处理命名]]声明要使用的工具包
-2. 然后在程序中使用
+2. 然后在程序中使用 ((5f674dc1-00dd-422e-a235-215af2b5967d))
 ##### 5.|[image](http://tuchuang.lifeupnote.com/blog/20200920/4UPGqiLAxjf9.png?imageslim)
 ##### 7.| ((5f674c6f-76bb-4ee9-b2b0-6a61f468ed87)) ->printf语句？
 ##### ((5f63392f-3220-4f41-8f63-86efcf9c496d))
