@@ -27,6 +27,9 @@ title: w3cschool jQuery教程
 ## JQuery安装
 ### 添加JQuery到网页
 #### 2.| 如何把JQuery添加到网页？
+:PROPERTIES:
+:custom_id: 5f63392f-3220-4f41-8f63-86efcf9c496d
+:END:
 #### 4.|
 #### 1.下载JQuery库
    :PROPERTIES:
