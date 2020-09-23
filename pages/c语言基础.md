@@ -46,4 +46,14 @@ title: C语言基础
 [image](http://tuchuang.lifeupnote.com/blog/20200920/5a514fO3nMwx.png?imageslim)
 ##### 7.| ((5f674c6f-76bb-4ee9-b2b0-6a61f468ed87)) ->printf语句？:+
 ((5f674dd0-5594-4dcb-9859-b6b2d2b07af7)) ->1. 设置具有printf语句的工具包:+
-##### 8.| **href1::C:\Users\Administrator\Documents\020 - learning - 课桌\020 - 01 C++Primer学习\C Code\第2课 - 程序中的数据输出\代码\HelloWorld.c**
+##### 8.| <e>C:\Users\Administrator\Documents\020 - learning - 课桌\020 - 01 C++Primer学习\C Code\第2课 - 程序中的数据输出\代码\HelloWorld.c</e>
+### 深入理解printf打印参数
+#### 2.| 如何深入理解printf的打印参数？
+#### 4.| 1. *数据*对参数中的*格式化字符*进行替换
+#### 2. 不同类型数据对应不同的格式化字符串
+##### 2.| %s 对应{{c1::字符串}},%d 对应{{c1::整数}},%f对应{{c1::浮点数}}
+#### 3. 最终的打印数据是一个字符串
+#### 5.| ```C
+printf("%d\n",1+1); =>  最后打印的数据为 "2\n"
+```
+####
