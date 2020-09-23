@@ -34,5 +34,6 @@
 ## [[Show field's source (html) in editor]]
 ## [[Customize Keyboard Shortcuts]]
 ## [[C语言基础]]
+## [[编程必备基础 计算机组成原理+操作系统+计算机网络]]
 ##
 ##
