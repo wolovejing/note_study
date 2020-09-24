@@ -78,4 +78,11 @@ printf("%s=%d\n","1+1",1+1);
 #### 3. printf中格式字符是指打印的具体数据类型
 #### 5.| [image](http://tuchuang.lifeupnote.com/blog/20200923/aEhcRgPs1it8.png?imageslim)
 #### 7.| ((5f6af4a9-28aa-4992-a622-a71e0a438a6a))->深入理解printf打印参数
-###
+## 第4课 数据类型与变量(下)
+### 变量命名规则
+#### 2.|C语言变量的命名规则是什么？
+#### 4.|由数字、字母、下划线组成，且第一个不能是数字。大小写敏感
+#### 5.| [image](http://tuchuang.lifeupnote.com/blog/20200924/gjMa05nkJShf.png?imageslim)
+### 变量命名规则的测验
+#### 2.| [image](http://tuchuang.lifeupnote.com/blog/20200924/wfoOpvths3ws.png?imageslim)
+####
