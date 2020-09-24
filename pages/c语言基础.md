@@ -80,9 +80,52 @@ printf("%s=%d\n","1+1",1+1);
 #### 7.| ((5f6af4a9-28aa-4992-a622-a71e0a438a6a))->深入理解printf打印参数
 ## 第4课 数据类型与变量(下)
 ### 变量命名规则
+:PROPERTIES:
+:custom_id: 5f6c450c-4a3f-43d0-9521-1b4b484fb3d6
+:END:
 #### 2.|C语言变量的命名规则是什么？
 #### 4.|由数字、字母、下划线组成，且第一个不能是数字。大小写敏感
 #### 5.| [image](http://tuchuang.lifeupnote.com/blog/20200924/gjMa05nkJShf.png?imageslim)
 ### 变量命名规则的测验
 #### 2.| [image](http://tuchuang.lifeupnote.com/blog/20200924/wfoOpvths3ws.png?imageslim)
-####
+#### 4.| 答：
+#### 6.| ((5f6c450c-4a3f-43d0-9521-1b4b484fb3d6)) ->变量命名规则
+### 变量的赋值
+#### 2.| 改变变量所代表的值的操作叫做赋值
+#### 5.|[image](http://tuchuang.lifeupnote.com/blog/20200924/g4aL6sdc7rJF.png?imageslim)
+### 变量的初始化
+#### 2.|什么叫做变量的初始化?
+#### 4.| 创建（定义）变量的同时，对其赋值操作
+#### 5.| [image](http://tuchuang.lifeupnote.com/blog/20200924/JM3j7qLmSNHb.png?imageslim)
+#### 7.| 没有初始化的变量，其*值为随机数*；
+约定俗成：创建变量的正规说法是*定义变量*
+### 代码的练习
+#### 2.|下面的程序输出是什么？并自己写一下
+```C
+#include <stdio.h>
+
+int main()
+{
+    int a;
+    int b = 2;
+    int c;
+
+    a = 1;
+    c = a + b;
+
+    printf("%d", c);
+
+    return 0;
+}
+```
+#### 4.| 答：
+## 第5课 深入数据类型与变量
+### 程序中数值的类型（字面量）--C语言是类型严格的语言，字面量也有类型
+#### 默认类型
+##### 2.| 程序中字面量默认类型是什么？
+##### 4.| 2为int 类型，0.2为double类型，'C'为char类型
+#### 指定类型
+##### 2.|如何制定字面量为特定类型？
+##### 4.| 在数据后面加上特定后缀即可
+例如 0.2f为float类型（后缀f表示float）
+###
