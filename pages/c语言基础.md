@@ -185,6 +185,39 @@ int main()
 #### C语言m中要时刻注意变量的类型，尽量避免不必要的类型转换(无意中的转换)
 ## 第6课 类型与变量编程练习
 ### 浮点数的四舍五入
-#### 2.| 编程练习
-#### [image](http://tuchuang.lifeupnote.com/blog/20200925/sXetg95o0DbM.png?imageslim)
-####
+:PROPERTIES:
+:custom_id: 5f6d803b-90a2-4992-9ed8-729997a7c59e
+:END:
+#### 浮点数四舍五入的编程练习 [image](http://tuchuang.lifeupnote.com/blog/20200925/sXetg95o0DbM.png?imageslim)
+##### 当小数部分大于等于0.5时，在加上0.5 大于等于1
+##### 当小数部分小于等于0.5时，在加上0.5 小于1
+##### 相加的结果舍弃小数部分，就是四舍五入的结果
+### ((5f6d803b-90a2-4992-9ed8-729997a7c59e)) ->浮点数的四舍五入:+ 代码实操
+#### 2.|填空
+```C
+int main()
+{
+	double f = 5.3;
+	f = f//正确 ？解释这句话的执行
+	f = f+0.5;
+	**kcode1::把f中的值0拿出来通过赋值操作 在放到f中**
+	f = (int)f;//正确？ 解释这句话的执行  
+	**kcode2::把f中的值0拿出来通过强制转换变为5 在通过赋值操作了**
+    return 0;
+}
+```
+### ((5f6d803b-90a2-4992-9ed8-729997a7c59e)) ->浮点数的四舍五入:+ 课后练习
+#### 2.| 问题[image](http://tuchuang.lifeupnote.com/blog/20200925/vlTR7POgSnU4.png?imageslim)
+#### 4.| 实现代码如下
+```C 
+int main()
+{
+	double f = 5.34;
+	f = f+0.55;//f为 5.91
+	f = f*10;//f为59.1
+	f = (int)f;
+	f = f/10;
+	printf("%f",f);
+    return 0;
+}
+```
