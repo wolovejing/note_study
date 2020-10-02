@@ -526,7 +526,33 @@ int main(){
 }
 ```
 ### 判断s1（字符数组）中的字符串和s2相等性
-#### 如何
+#### 2.|如何判断s1（字符数组）中的字符串和s2是否相等？
+```C++
+#include <stdio.h>
+#include <string.h>
+
+int main()
+{
+    char s[10] = "abcd";
+    char in[16] = {0};
+
+    printf("Input: ");
+    //如何从键盘中获取输入的字符串并放到in中？
+    **kcode1::scanf("%s", in);**
+    //然后 根据获取到的字符串in与s 比较看看是否相等
+    if( **kcode2::strcmp(s, in) == 0** )
+    {
+        printf("equal\n");
+    }
+    else
+    {
+        printf("non-equal\n");
+    }
+
+    return 0;
+}
+```
+#### 4.|使用strcmp(s1,s2)进行比较，当相等时为0
  C语言基础
 ---
 # C语言基础
